@@ -1,10 +1,10 @@
 ## Unet model + Cityscape dataset
-![Thumb](thumbnail.png)
+![Thumb](thumb.png)
 Implementing Unet paper for the CityScape dataset.
 The mean IOU for all classes is 76%.
 
-[Demo1](https://youtu.be/hwukQZ1rUAo)
+[Demo1 vid](https://youtu.be/hwukQZ1rUAo)
 
-[Demo2](https://youtu.be/bpUPKiHMvVY)
+[Demo2 vid](https://youtu.be/bpUPKiHMvVY)
 
-[Demo3](https://youtu.be/vBCH5Pkt5y8)
+[Demo3 vid](https://youtu.be/vBCH5Pkt5y8)
