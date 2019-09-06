@@ -9,3 +9,4 @@ GetData.py - loads data from folders and augments them if needed
 
 CityScape_Train.ipynb - the main notebook, contains examples of the "best" models efficiency.
 
+![](https://media.giphy.com/media/SiMcadhDEZDm93GmTL/giphy.gif)
