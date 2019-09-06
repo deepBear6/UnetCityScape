@@ -1,12 +1,7 @@
 ## Using CityScape dataset with Unet
 Implementing Unet paper for the CityScape dataset.
+The mean IOU for all classes is 76%.
 
-However the learning stops at one point, so that is a TODO :((
-
-checkstats.ipynb - check the accuracies of the saved models
-
-GetData.py - loads data from folders and augments them if needed
-
-CityScape_Train.ipynb - the main notebook, contains examples of the "best" models efficiency.
-
-![](https://media.giphy.com/media/SiMcadhDEZDm93GmTL/giphy.gif)
+[Demo1](https://youtu.be/Uj2W9LoqrOU)
+[Demo2](https://youtu.be/kBSxA7TkFc8)
+[Demo3](https://youtu.be/DTVNzYB3IHY)
