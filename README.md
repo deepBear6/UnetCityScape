@@ -1,6 +1,6 @@
 ## Unet model + Cityscape dataset
 ![Thumb](thumb.png)
-Implementing Unet paper for the CityScape dataset.
+Implementing Unet paper for the CityScape finely annotated dataset.
 The mean IOU over all classes is 76% on the validation dataset (7 classes).
 
 [Demo1 vid](https://youtu.be/hwukQZ1rUAo)
